@@ -37,9 +37,9 @@ This project serves as a practical implementation of fundamental computer scienc
 How to Compile and Run
 
 1. Prerequisites
-Ensure a C compiler (e.g., GCC, Clang, or MinGW) is installed on your system.
+- Ensure a C compiler (e.g., GCC, Clang, or MinGW) is installed on your system.
 
 2. Compilation
-Open your terminal or command prompt and run:
+- Open your terminal or command prompt and run:
 ```bash
 gcc main.c -o bus_system
